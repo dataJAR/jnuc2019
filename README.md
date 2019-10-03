@@ -5,3 +5,6 @@ Repo for links from the JNUC 2019 talk "datajar.mobi: A story of Jamf and…"
 
 - [Reference Kubernetes Build](https://github.com/dataJAR/Reference-Kubernetes-Build)
 - [JamfPro Kubernetes Manifests](https://github.com/jamf/kubernetesManifests)
+
+# datajar.mobi - maintenance
+- [JAMFSoftwareServer.log Messages](https://github.com/dataJAR/JAMFSoftwareServer.log-Messages)
