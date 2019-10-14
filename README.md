@@ -20,5 +20,8 @@ Repo for links from the JNUC 2019 talk "datajar.mobi: A story of Jamf and…"
 - [Pacifist](https://www.charlessoft.com)
 - [Packages](http://s.sudre.free.fr/Software/Packages/about.html)
 
+# datajar.mobi - Administration
+- Jamf Switcher
+
 # datajar.mobi - Maintenance
 - [JAMFSoftwareServer.log Messages](https://github.com/dataJAR/JAMFSoftwareServer.log-Messages)
